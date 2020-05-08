@@ -11,6 +11,9 @@ Testing 1, 2,, 3
 
 [![UNCOMN badge](https://img.shields.io/badge/<UNCOMN>-<Madeintheshade>-<COLOR>.svg)](https://shields.io/)
 
+[![UNCOMN badge](https://img.shields.io/badge/<UNCOMN>-<Madeintheshade>-<pink>.svg)](https://shields.io/)
+
+
 
 [ ] one
 [x] two
