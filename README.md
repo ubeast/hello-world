@@ -5,7 +5,7 @@ Testing 1, 2,, 3
 
 [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
-[![image title](https://my-image-uri.com)](https://my-amazing-link.com/it-is-so-wonderful.php)
+[![Generic badge](https://img.shields.io/badge/<UNCOMN>-<Made in the shade>-<COLOR>.svg)](https://shields.io/)
 
 [ ] one
 [x] two
