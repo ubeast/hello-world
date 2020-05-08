@@ -13,6 +13,8 @@ Testing 1, 2,, 3
 
 [![Issues](http://img.shields.io/github/issues/USER/REPO.svg)]( https://github.com/USER/REPO/issues )
 
+[![Coveralls](http://img.shields.io/coveralls/rstacruz/REPO.svg?style=flat)](https://coveralls.io/r/rstacruz/REPO)
+
 
 [ ] one
 [x] two
