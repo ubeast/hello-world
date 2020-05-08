@@ -5,6 +5,7 @@ Testing 1, 2,, 3
 
 ![](https://github.com/actions/hello-world/workflows/Greet%20Everyone/badge.svg)
 
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 [ ] one
 [x] two
