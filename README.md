@@ -11,6 +11,8 @@ Testing 1, 2,, 3
 
 [![StackOverflow](http://img.shields.io/badge/stackoverflow-REPO-blue.svg)]( http://stackoverflow.com/questions/tagged/REPO )
 
+[![Issues](http://img.shields.io/github/issues/USER/REPO.svg)]( https://github.com/USER/REPO/issues )
+
 
 [ ] one
 [x] two
