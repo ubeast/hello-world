@@ -3,7 +3,7 @@ My short description.  Really short
 
 Testing 1, 2,, 3
 
-[![Generic badge](https://img.shields.io/badge/UNCOMN-Made in the shade-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/UNCOMN-<Made in the shade>-<COLOR>.svg)](https://shields.io/)
 
 [![Generic badge](https://img.shields.io/badge/<UNCOMN>-<Made in the shade>-<COLOR>.svg)](https://shields.io/)
 
